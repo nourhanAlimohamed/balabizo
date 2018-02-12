@@ -4,7 +4,7 @@ a)<p align="center">
 </p>
 b)Sprint0
 c)Purpose: To ease the communication process.
-Sama Walid: i love music
+Sama Walid: i love music                  
 Nourhan Ali:  i love music
 Mohamed Saeed: i love music
 Ziad Hossam: i love music
@@ -28,3 +28,5 @@ Nour Mostafa: i love music
 Mina Ramsis: i love music
 Sameh Samer: i love music
 Youssef Ramy: i love music 
+
+Sama Walid, 37-7954
