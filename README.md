@@ -1,5 +1,7 @@
 # balabizo
-a)
+a)<p align="center">
+  <img src="balabizo/MTV Tie Dye.jpg" width="350"/>
+</p>
 b)Sprint0
 c)Purpose: To ease the communication process.
 Sama Walid: i love music
