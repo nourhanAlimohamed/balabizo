@@ -1,6 +1,6 @@
 # balabizo
 a)<p align="center">
-  <img src="balabizo/MTV Tie Dye.jpg" width="350"/>
+  <img src="https://github.com/nourhanAlimohamed/balabizo/blob/master/MTV%20Tie%20Dye.jpg?raw=true" width="350"/>
 </p>
 b)Sprint0
 c)Purpose: To ease the communication process.
