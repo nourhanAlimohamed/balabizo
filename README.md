@@ -24,7 +24,7 @@ Khaled Amr: i love music
 Omar Zakria: i love music
 Omar Maged: i love music
 Amr Ismail: i love music
-Nour Mostafa: I love music
+Nour Mostafa: I Love music
 Mina Ramsis: i love music
 Sameh Samer: i love music
 Youssef Ramy: i love music 
