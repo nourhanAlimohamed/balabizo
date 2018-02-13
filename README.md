@@ -30,6 +30,6 @@ Sameh Samer: i love music
 Youssef Ramy: i love music 
 Dona jaradah 37-12706
 Menna waell 37-7074
-Lina Hany 37-1822
+Lina hany 37-1822
 Nadine adel 37-3720
-David hani 37-0414
+David Hani 37-0414
