@@ -28,6 +28,7 @@ Nour Mostafa: i love music
 Mina Ramsis: i love music
 Sameh Samer: i love music
 Youssef Ramy: i love music 
+C1 team:
 Khaled ELShimi 37-6529 
 Passant Omar 37-3450 
 Rawan Shehab 37-15834 
