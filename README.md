@@ -10,7 +10,7 @@ Mohamed Saeed: i love music
 Ziad Hossam: i love music
 Amr Alaraby: i love music
 Dona Jaradah: i love music
-Farah Wael: i love music 37-7761
+Farah Wael: i love music 
 Lina Hany: i love music
 Liza Charles: i love music
 Menna Wael: i love music
@@ -21,7 +21,7 @@ Rawan Shehab: i love music
 Samira Mahmoud: i love music
 David Hani: i love music
 Khaled Amr: i love music
-Omar Zakria: 37-1387
+Omar Zakria: i love music
 Omar Maged: i love music
 Amr Ismail: i love music
 Nour Mostafa: i love music
@@ -30,3 +30,7 @@ Sameh Samer: i love music
 Youssef Ramy: I love music 
 
 Liza Hani:37-4676
+Farah Wael: 37-7761
+Youssef Ramy: 37-0653
+Omar Zakaria: 37-1387
+Samira Mahmoud: 37- 19466
