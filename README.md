@@ -30,6 +30,4 @@ Sameh Samer: i love music
 Youssef Ramy: i love music 37-0653
 Khaled Elshimi 37-6529
 Passant Omar: 37-3450
-Rawan Shehab: 37-15834
-Nourhan Samy: 37-12655
-Mina Ramis: 31-3575
+
