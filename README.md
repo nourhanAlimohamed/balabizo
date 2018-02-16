@@ -8,7 +8,7 @@ Sama Walid: i love music
 Nourhan Ali:  i love music
 Mohamed Saeed: i love music
 Ziad Hossam: i love music
-Amr Alaraby: i love music
+Amro Elarabi: i love music
 Dona Jaradah: i love music
 Farah Wael: i love music 
 Lina Hany: i love music
