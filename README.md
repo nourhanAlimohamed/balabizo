@@ -2,6 +2,44 @@
 a)<p align="center">
   <img src="https://github.com/nourhanAlimohamed/balabizo/blob/master/MTV%20Tie%20Dye.jpg?raw=true" width="350"/>
 </p>
+<h1 style=font-style:italic;background-color: lightblue;> 
+Authors
+</h1>
+
+<table style="width:100%">
+<tr> 
+         <th> Name </th>
+         <th> ID </th>
+</tr>
+         
+<tr>
+         <td> Khaled Elshimi  </td>
+         <td> 37-6529 </td>
+         
+</tr>
+         
+<tr>
+         <td> Passant Omar</td>
+         <td> 37-3450</td>
+</tr>
+           
+<tr>
+         <td> Mina Ramsis </td>
+         <td> 31-3575 </td>
+</tr> 
+
+<tr>
+         <td>Nourhan Samy </td>
+         <td>  37-12655  </td>
+</tr> 
+           
+<tr>
+         <td>Rawan Shehab  </td>
+         <td> 37-15834</td>
+</tr>
+
+</table>
+
 b)Sprint0
 c)Purpose: To ease the communication process.
 Sama Walid: i love music
