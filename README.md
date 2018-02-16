@@ -1,7 +1,5 @@
 # balabizo
-a)<p align="center">
-  <img src="https://github.com/nourhanAlimohamed/balabizo/blob/master/MTV%20Tie%20Dye.jpg?raw=true" width="350"/>
-</p>
+a)
 <p align="center">
   <img src="https://github.com/nourhanAlimohamed/balabizo/blob/master/MTV%20Tie%20Dye.jpg?raw=true" width="350"/>
 </p>
