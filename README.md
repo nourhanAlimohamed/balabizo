@@ -2,6 +2,45 @@
 a)<p align="center">
   <img src="https://github.com/nourhanAlimohamed/balabizo/blob/master/MTV%20Tie%20Dye.jpg?raw=true" width="350"/>
 </p>
+<h1 style=font-style:italic;background-color: lightblue;> 
+Authors
+</h1>
+
+<table style="width:100%">
+<tr> 
+         <th> Name </th>
+         <th> ID </th>
+</tr>
+         
+<tr>
+         <td> Farah Wael </td>
+         <td>37-7761  </td>
+         
+</tr>
+         
+<tr>
+         <td> Liza Hani </td>
+         <td>37-4676 </td>
+</tr>
+           
+<tr>
+         <td>Youssef Ramy  </td>
+         <td>37-0653 </td>
+</tr> 
+
+<tr>
+         <td>Omar Zakaria </td>
+         <td>  37-1387  </td>
+</tr> 
+           
+<tr>
+         <td>Samira Mahmoud  </td>
+         <td> 37- 19466 </td>
+</tr>
+
+</table>
+    
+
 b)Sprint0
 c)Purpose: To ease the communication process.
 Sama Walid: i love music
@@ -31,6 +70,6 @@ Youssef Ramy: I love music
 
 Liza Hani:37-4676
 Farah Wael: 37-7761
-Youssef Ramy: 37-0653 !
+Youssef Ramy: 37-0653 
 Omar Zakaria: 37-1387. i have a pet 
 Samira Mahmoud: 37- 19466
