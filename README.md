@@ -2,6 +2,44 @@
 a)<p align="center">
   <img src="https://github.com/nourhanAlimohamed/balabizo/blob/master/MTV%20Tie%20Dye.jpg?raw=true" width="350"/>
 </p>
+<h1 style=font-style:italic;background-color: lightblue;> 
+Authors
+</h1>
+
+<table style="width:100%">
+<tr> 
+         <th> Name </th>
+         <th> ID </th>
+</tr>
+         
+<tr>
+         <td> Amro Mohamed </td>
+         <td> 37-14773 </td>
+</tr>
+         
+<tr>
+         <td> Ziad Hossam </td>
+         <td> 37-2221 </td>
+</tr>
+           
+<tr>
+         <td> Nourhan Ali </td>
+         <td> 37-5237 </td>
+</tr> 
+
+<tr>
+         <td> Sama Walid  </td>
+         <td> 37-7954 </td>
+</tr> 
+           
+<tr>
+         <td> Mohamed Saeed  </td>
+         <td> 37-10324 </td>
+</tr>
+
+</table>
+    
+
 b)Sprint0
 c)Purpose: To ease the communication process.
 Sama Walid: i love music                  
