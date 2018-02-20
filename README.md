@@ -1,9 +1,10 @@
-# balabizo :dancer:  :dancer:  :dancer:  :dancer:  :dancer:
+# Balabizoo :dancer:  :dancer:  :dancer:  :dancer:  :dancer:
 a)<p align="center">
   <img src="https://github.com/nourhanAlimohamed/balabizo/blob/master/MTV%20Tie%20Dye.jpg?raw=true" width="350"/>
 </p>
-b)Sprint0
-c)Purpose: To ease the communication process.
+b)Sprint1
+c)Getting Started: 
+d,e)
 Sama Walid: i love music
 Nourhan Ali:  i love music
 Mohamed Saeed: i love music
